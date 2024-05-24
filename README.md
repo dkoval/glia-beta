@@ -1,3 +1,3 @@
-# Glia Beta testing on blank page
+# Glia Beta testing
 
-Open https://salemove.github.io/glia-beta-blank/ for preview.
+ You can see it in action [here](https://dkoval.github.io/glia-beta/).
